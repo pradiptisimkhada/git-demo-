@@ -1,4 +1,4 @@
 # git-demo-
-this is a git demo
+This is a git demo
 <br>
-Pradipti 
+By -Pradipti Simkhada 
